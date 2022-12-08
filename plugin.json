@@ -4,8 +4,8 @@
   "type": "free",
   "main": "https://raw.githubusercontent.com/bajrangCoder/acode-plugin-gradient/main/dist/main.js",
   "version": "1.0.0",
-  "readme": "readme.md",
-  "icon": "icon.png",
+  "readme": "https://raw.githubusercontent.com/bajrangCoder/acode-plugin-gradient/main/readme.md",
+  "icon": "https://raw.githubusercontent.com/bajrangCoder/acode-plugin-gradient/main/icon.png",
   "files": [],
   "author": {
     "name": "Raunak Raj",
