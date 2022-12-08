@@ -2,7 +2,7 @@
   "id": "acode.plugin.gradient",
   "name": "Gradient Generator",
   "type": "free",
-  "main": "dist/main.js",
+  "main": "https://raw.githubusercontent.com/bajrangCoder/acode-plugin-gradient/main/dist/main.js",
   "version": "1.0.0",
   "readme": "readme.md",
   "icon": "icon.png",
