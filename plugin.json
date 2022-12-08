@@ -2,14 +2,14 @@
   "id": "acode.plugin.gradient",
   "name": "Gradient Generator",
   "type": "free",
-  "main": "https://raw.githubusercontent.com/bajrangCoder/acode-plugin-gradient/main/dist/main.js",
+  "main": "dist/main.js",
   "version": "1.0.0",
-  "readme": "https://raw.githubusercontent.com/bajrangCoder/acode-plugin-gradient/main/readme.md",
-  "icon": "https://raw.githubusercontent.com/bajrangCoder/acode-plugin-gradient/main/icon.png",
+  "readme": "readme.md",
+  "icon": "icon.png",
   "files": [],
   "author": {
     "name": "Raunak Raj",
     "email": "bajrangcoders@gmail.com",
-    "github": "https://github.com/bajrangCoder"
+    "github": "bajrangCoder"
   }
 }
