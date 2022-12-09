@@ -1,5 +1,6 @@
 # Gradient Generator 
-> latest version: V1.0.0
+> latest version: v1.0.0
+
 Gradient Generator plugin for Acode for generating gradient color.
 
 ## Use
