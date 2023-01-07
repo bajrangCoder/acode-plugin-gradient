@@ -1,0 +1,882 @@
+[
+  {
+    "className":"slate-50",
+    "colorCode":"hsl(210, 40%, 98%)"
+  },
+  {
+    "className":"slate-100",
+    "colorCode":"hsl(210, 40%, 96.1%)"
+  },
+  {
+    "className":"slate-200",
+    "colorCode":"hsl(214, 31.8%, 91.4%)"
+  },
+  {
+    "className":"slate-300",
+    "colorCode":"hsl(213, 26.8%, 83.9%)"
+  },
+  {
+    "className":"slate-400",
+    "colorCode":"hsl(215, 20.2%, 65.1%)"
+  },
+  {
+    "className":"slate-500",
+    "colorCode":"hsl(215, 16.3%, 46.9%)"
+  },
+  {
+    "className":"slate-600",
+    "colorCode":"hsl(215, 19.3%, 34.5%)"
+  },
+  {
+    "className":"slate-700",
+    "colorCode":"hsl(215, 25%, 26.7%)"
+  },
+  {
+    "className":"slate-800",
+    "colorCode":"hsl(217, 32.6%, 17.5%)"
+  },
+  {
+    "className":"slate-900",
+    "colorCode":"hsl(222, 47.4%, 11.2%)"
+  },
+  {
+    "className":"gray-50",
+    "colorCode":"hsl(210, 20%, 98%)"
+  },
+  {
+    "className":"gray-100",
+    "colorCode":"hsl(220, 14.3%, 95.9%)"
+  },
+  {
+    "className":"gray-200",
+    "colorCode":"hsl(220, 13%, 91%)"
+  },
+  {
+    "className":"gray-300",
+    "colorCode":"hsl(216, 12.2%, 83.9%)"
+  },
+  {
+    "className":"gray-400",
+    "colorCode":"hsl(218, 10.6%, 64.9%)"
+  },
+  {
+    "className":"gray-500",
+    "colorCode":"hsl(220, 8.9%, 46.1%)"
+  },
+  {
+    "className":"gray-600",
+    "colorCode":"hsl(215, 13.8%, 34.1%)"
+  },
+  {
+    "className":"gray-700",
+    "colorCode":"hsl(217, 19.1%, 26.7%)"
+  },
+  {
+    "className":"gray-800",
+    "colorCode":"hsl(215, 27.9%, 16.9%)"
+  },
+  {
+    "className":"gray-900",
+    "colorCode":"hsl(221, 39.3%, 11%)"
+  },
+  {
+    "className":"zinc-50",
+    "colorCode":"hsl(0, 0%, 98%)"
+  },
+  {
+    "className":"zinc-100",
+    "colorCode":"hsl(240, 4.8%, 95.9%)"
+  },
+  {
+    "className":"zinc-200",
+    "colorCode":"hsl(240, 5.9%, 90%)"
+  },
+  {
+    "className":"zinc-300",
+    "colorCode":"hsl(240, 4.9%, 83.9%)"
+  },
+  {
+    "className":"zinc-400",
+    "colorCode":"hsl(240, 5%, 64.9%)"
+  },
+  {
+    "className":"zinc-500",
+    "colorCode":"hsl(240, 3.8%, 46.1%)"
+  },
+  {
+    "className":"zinc-600",
+    "colorCode":"hsl(240, 5.2%, 33.9%)"
+  },
+  {
+    "className":"zinc-700",
+    "colorCode":"hsl(240, 5.3%, 26.1%)"
+  },
+  {
+    "className":"zinc-800",
+    "colorCode":"hsl(240, 3.7%, 15.9%)"
+  },
+  {
+    "className":"zinc-900",
+    "colorCode":"hsl(240, 5.9%, 10%)"
+  },
+  {
+    "className":"neutral-50",
+    "colorCode":"hsl(0, 0%, 98%)"
+  },
+  {
+    "className":"neutral-100",
+    "colorCode":"hsl(0, 0%, 96.1%)"
+  },
+  {
+    "className":"neutral-200",
+    "colorCode":"hsl(0, 0%, 89.8%)"
+  },
+  {
+    "className":"neutral-300",
+    "colorCode":"hsl(0, 0%, 83.1%)"
+  },
+  {
+    "className":"neutral-400",
+    "colorCode":"hsl(0, 0%, 63.9%)"
+  },
+  {
+    "className":"neutral-500",
+    "colorCode":"hsl(0, 0%, 45.1%)"
+  },
+  {
+    "className":"neutral-600",
+    "colorCode":"hsl(0, 0%, 32.2%)"
+  },
+  {
+    "className":"neutral-700",
+    "colorCode":"hsl(0, 0%, 25.1%)"
+  },
+  {
+    "className":"neutral-800",
+    "colorCode":"hsl(0, 0%, 14.9%)"
+  },
+  {
+    "className":"neutral-900",
+    "colorCode":"hsl(0, 0%, 9%)"
+  },
+  {
+    "className":"stone-50",
+    "colorCode":"hsl(60, 9.1%, 97.8%)"
+  },
+  {
+    "className":"stone-100",
+    "colorCode":"hsl(60, 4.8%, 95.9%)"
+  },
+  {
+    "className":"stone-200",
+    "colorCode":"hsl(20, 5.9%, 90%)"
+  },
+  {
+    "className":"stone-300",
+    "colorCode":"hsl(24, 5.7%, 82.9%)"
+  },
+  {
+    "className":"stone-400",
+    "colorCode":"hsl(24, 5.4%, 63.9%)"
+  },
+  {
+    "className":"stone-500",
+    "colorCode":"hsl(25, 5.3%, 44.7%)"
+  },
+  {
+    "className":"stone-600",
+    "colorCode":"hsl(33, 5.5%, 32.4%)"
+  },
+  {
+    "className":"stone-700",
+    "colorCode":"hsl(30, 6.3%, 25.1%)"
+  },
+  {
+    "className":"stone-800",
+    "colorCode":"hsl(12, 6.5%, 15.1%)"
+  },
+  {
+    "className":"stone-900",
+    "colorCode":"hsl(24, 9.8%, 10%)"
+  },
+  {
+    "className":"red-50",
+    "colorCode":"hsl(0, 85.7%, 97.3%)"
+  },
+  {
+    "className":"red-100",
+    "colorCode":"hsl(0, 93.3%, 94.1%)"
+  },
+  {
+    "className":"red-200",
+    "colorCode":"hsl(0, 96.3%, 89.4%)"
+  },
+  {
+    "className":"red-300",
+    "colorCode":"hsl(0, 93.5%, 81.8%)"
+  },
+  {
+    "className":"red-400",
+    "colorCode":"hsl(0, 90.6%, 70.8%)"
+  },
+  {
+    "className":"red-500",
+    "colorCode":"hsl(0, 84.2%, 60.2%)"
+  },
+  {
+    "className":"red-600",
+    "colorCode":"hsl(0, 72.2%, 50.6%)"
+  },
+  {
+    "className":"red-700",
+    "colorCode":"hsl(0, 73.7%, 41.8%)"
+  },
+  {
+    "className":"red-800",
+    "colorCode":"hsl(0, 70%, 35.3%)"
+  },
+  {
+    "className":"red-900",
+    "colorCode":"hsl(0, 62.8%, 30.6%)"
+  },
+  {
+    "className":"orange-50",
+    "colorCode":"hsl(33, 100%, 96.5%)"
+  },
+  {
+    "className":"orange-100",
+    "colorCode":"hsl(34, 100%, 91.8%)"
+  },
+  {
+    "className":"orange-200",
+    "colorCode":"hsl(32, 97.7%, 83.1%)"
+  },
+  {
+    "className":"orange-300",
+    "colorCode":"hsl(31, 97.2%, 72.4%)"
+  },
+  {
+    "className":"orange-400",
+    "colorCode":"hsl(27, 96%, 61%)"
+  },
+  {
+    "className":"orange-500",
+    "colorCode":"hsl(25, 95%, 53.1%)"
+  },
+  {
+    "className":"orange-600",
+    "colorCode":"hsl(21, 90.2%, 48.2%)"
+  },
+  {
+    "className":"orange-700",
+    "colorCode":"hsl(17, 88.3%, 40.4%)"
+  },
+  {
+    "className":"orange-800",
+    "colorCode":"hsl(15, 79.1%, 33.7%)"
+  },
+  {
+    "className":"orange-900",
+    "colorCode":"hsl(15, 74.6%, 27.8%)"
+  },
+  {
+    "className":"amber-50",
+    "colorCode":"hsl(48, 100%, 96.1%)"
+  },
+  {
+    "className":"amber-100",
+    "colorCode":"hsl(48, 96.5%, 88.8%)"
+  },
+  {
+    "className":"amber-200",
+    "colorCode":"hsl(48, 96.6%, 76.7%)"
+  },
+  {
+    "className":"amber-300",
+    "colorCode":"hsl(46, 96.7%, 64.5%)"
+  },
+  {
+    "className":"amber-400",
+    "colorCode":"hsl(43, 96.4%, 56.3%)"
+  },
+  {
+    "className":"amber-500",
+    "colorCode":"hsl(38, 92.1%, 50.2%)"
+  },
+  {
+    "className":"amber-600",
+    "colorCode":"hsl(32, 94.6%, 43.7%)"
+  },
+  {
+    "className":"amber-700",
+    "colorCode":"hsl(26, 90.5%, 37.1%)"
+  },
+  {
+    "className":"amber-800",
+    "colorCode":"hsl(23, 82.5%, 31.4%)"
+  },
+  {
+    "className":"amber-900",
+    "colorCode":"hsl(22, 77.8%, 26.5%)"
+  },
+  {
+    "className":"yellow-50",
+    "colorCode":"hsl(55, 91.7%, 95.3%)"
+  },
+  {
+    "className":"yellow-100",
+    "colorCode":"hsl(55, 96.7%, 88%)"
+  },
+  {
+    "className":"yellow-200",
+    "colorCode":"hsl(53, 98.3%, 76.9%)"
+  },
+  {
+    "className":"yellow-300",
+    "colorCode":"hsl(50, 97.8%, 63.5%)"
+  },
+  {
+    "className":"yellow-400",
+    "colorCode":"hsl(48, 95.8%, 53.1%)"
+  },
+  {
+    "className":"yellow-500",
+    "colorCode":"hsl(45, 93.4%, 47.5%)"
+  },
+  {
+    "className":"yellow-600",
+    "colorCode":"hsl(41, 96.1%, 40.4%)"
+  },
+  {
+    "className":"yellow-700",
+    "colorCode":"hsl(35, 91.7%, 32.9%)"
+  },
+  {
+    "className":"yellow-800",
+    "colorCode":"hsl(32, 81%, 28.8%)"
+  },
+  {
+    "className":"yellow-900",
+    "colorCode":"hsl(28, 72.5%, 25.7%)"
+  },
+  {
+    "className":"lime-50",
+    "colorCode":"hsl(78, 92%, 95.1%)"
+  },
+  {
+    "className":"lime-100",
+    "colorCode":"hsl(80, 89.1%, 89.2%)"
+  },
+  {
+    "className":"lime-200",
+    "colorCode":"hsl(81, 88.5%, 79.6%)"
+  },
+  {
+    "className":"lime-300",
+    "colorCode":"hsl(82, 84.5%, 67.1%)"
+  },
+  {
+    "className":"lime-400",
+    "colorCode":"hsl(83, 78%, 55.5%)"
+  },
+  {
+    "className":"lime-500",
+    "colorCode":"hsl(84, 80.5%, 44.3%)"
+  },
+  {
+    "className":"lime-600",
+    "colorCode":"hsl(85, 85.2%, 34.5%)"
+  },
+  {
+    "className":"lime-700",
+    "colorCode":"hsl(86, 78.4%, 27.3%)"
+  },
+  {
+    "className":"lime-800",
+    "colorCode":"hsl(86, 69%, 22.7%)"
+  },
+  {
+    "className":"lime-900",
+    "colorCode":"hsl(88, 61.2%, 20.2%)"
+  },
+  {
+    "className":"green-50",
+    "colorCode":"hsl(138, 76.5%, 96.7%)"
+  },
+  {
+    "className":"green-100",
+    "colorCode":"hsl(141, 84.2%, 92.5%)"
+  },
+  {
+    "className":"green-200",
+    "colorCode":"hsl(141, 78.9%, 85.1%)"
+  },
+  {
+    "className":"green-300",
+    "colorCode":"hsl(142, 76.6%, 73.1%)"
+  },
+  {
+    "className":"green-400",
+    "colorCode":"hsl(142, 69.2%, 58%)"
+  },
+  {
+    "className":"green-500",
+    "colorCode":"hsl(142, 70.6%, 45.3%)"
+  },
+  {
+    "className":"green-600",
+    "colorCode":"hsl(142, 76.2%, 36.3%)"
+  },
+  {
+    "className":"green-700",
+    "colorCode":"hsl(142, 71.8%, 29.2%)"
+  },
+  {
+    "className":"green-800",
+    "colorCode":"hsl(143, 64.2%, 24.1%)"
+  },
+  {
+    "className":"green-900",
+    "colorCode":"hsl(144, 61.2%, 20.2%)"
+  },
+  {
+    "className":"emerald-50",
+    "colorCode":"hsl(152, 81%, 95.9%)"
+  },
+  {
+    "className":"emerald-100",
+    "colorCode":"hsl(149, 80.4%, 90%)"
+  },
+  {
+    "className":"emerald-200",
+    "colorCode":"hsl(152, 76%, 80.4%)"
+  },
+  {
+    "className":"emerald-300",
+    "colorCode":"hsl(156, 71.6%, 66.9%)"
+  },
+  {
+    "className":"emerald-400",
+    "colorCode":"hsl(158, 64.4%, 51.6%)"
+  },
+  {
+    "className":"emerald-500",
+    "colorCode":"hsl(160, 84.1%, 39.4%)"
+  },
+  {
+    "className":"emerald-600",
+    "colorCode":"hsl(161, 93.5%, 30.4%)"
+  },
+  {
+    "className":"emerald-700",
+    "colorCode":"hsl(163, 93.5%, 24.3%)"
+  },
+  {
+    "className":"emerald-800",
+    "colorCode":"hsl(163, 88.1%, 19.8%)"
+  },
+  {
+    "className":"emerald-900",
+    "colorCode":"hsl(164, 85.7%, 16.5%)"
+  },
+  {
+    "className":"teal-50",
+    "colorCode":"hsl(166, 76.5%, 96.7%)"
+  },
+  {
+    "className":"teal-100",
+    "colorCode":"hsl(167, 85.5%, 89.2%)"
+  },
+  {
+    "className":"teal-200",
+    "colorCode":"hsl(168, 83.8%, 78.2%)"
+  },
+  {
+    "className":"teal-300",
+    "colorCode":"hsl(171, 76.9%, 64.3%)"
+  },
+  {
+    "className":"teal-400",
+    "colorCode":"hsl(172, 66%, 50.4%)"
+  },
+  {
+    "className":"teal-500",
+    "colorCode":"hsl(173, 80.4%, 40%)"
+  },
+  {
+    "className":"teal-600",
+    "colorCode":"hsl(175, 83.9%, 31.6%)"
+  },
+  {
+    "className":"teal-700",
+    "colorCode":"hsl(175, 77.4%, 26.1%)"
+  },
+  {
+    "className":"teal-800",
+    "colorCode":"hsl(176, 69.4%, 21.8%)"
+  },
+  {
+    "className":"teal-900",
+    "colorCode":"hsl(176, 60.8%, 19%)"
+  },
+  {
+    "className":"cyan-50",
+    "colorCode":"hsl(183, 100%, 96.3%)"
+  },
+  {
+    "className":"cyan-100",
+    "colorCode":"hsl(185, 95.9%, 90.4%)"
+  },
+  {
+    "className":"cyan-200",
+    "colorCode":"hsl(186, 93.5%, 81.8%)"
+  },
+  {
+    "className":"cyan-300",
+    "colorCode":"hsl(187, 92.4%, 69%)"
+  },
+  {
+    "className":"cyan-400",
+    "colorCode":"hsl(188, 85.7%, 53.3%)"
+  },
+  {
+    "className":"cyan-500",
+    "colorCode":"hsl(189, 94.5%, 42.7%)"
+  },
+  {
+    "className":"cyan-600",
+    "colorCode":"hsl(192, 91.4%, 36.5%)"
+  },
+  {
+    "className":"cyan-700",
+    "colorCode":"hsl(193, 82.3%, 31%)"
+  },
+  {
+    "className":"cyan-800",
+    "colorCode":"hsl(194, 69.6%, 27.1%)"
+  },
+  {
+    "className":"cyan-900",
+    "colorCode":"hsl(196, 63.6%, 23.7%)"
+  },
+  {
+    "className":"sky-50",
+    "colorCode":"hsl(204, 100%, 97.1%)"
+  },
+  {
+    "className":"sky-100",
+    "colorCode":"hsl(204, 93.8%, 93.7%)"
+  },
+  {
+    "className":"sky-200",
+    "colorCode":"hsl(201, 94.4%, 86.1%)"
+  },
+  {
+    "className":"sky-300",
+    "colorCode":"hsl(199, 95.5%, 73.9%)"
+  },
+  {
+    "className":"sky-400",
+    "colorCode":"hsl(198, 93.2%, 59.6%)"
+  },
+  {
+    "className":"sky-500",
+    "colorCode":"hsl(199, 88.7%, 48.4%)"
+  },
+  {
+    "className":"sky-600",
+    "colorCode":"hsl(200, 98%, 39.4%)"
+  },
+  {
+    "className":"sky-700",
+    "colorCode":"hsl(201, 96.3%, 32.2%)"
+  },
+  {
+    "className":"sky-800",
+    "colorCode":"hsl(201, 90%, 27.5%)"
+  },
+  {
+    "className":"sky-900",
+    "colorCode":"hsl(202, 80.3%, 23.9%)"
+  },
+  {
+    "className":"blue-50",
+    "colorCode":"hsl(214, 100%, 96.9%)"
+  },
+  {
+    "className":"blue-100",
+    "colorCode":"hsl(214, 94.6%, 92.7%)"
+  },
+  {
+    "className":"blue-200",
+    "colorCode":"hsl(213, 96.9%, 87.3%)"
+  },
+  {
+    "className":"blue-300",
+    "colorCode":"hsl(212, 96.4%, 78.4%)"
+  },
+  {
+    "className":"blue-400",
+    "colorCode":"hsl(213, 93.9%, 67.8%)"
+  },
+  {
+    "className":"blue-500",
+    "colorCode":"hsl(217, 91.2%, 59.8%)"
+  },
+  {
+    "className":"blue-600",
+    "colorCode":"hsl(221, 83.2%, 53.3%)"
+  },
+  {
+    "className":"blue-700",
+    "colorCode":"hsl(224, 76.3%, 48%)"
+  },
+  {
+    "className":"blue-800",
+    "colorCode":"hsl(226, 70.7%, 40.2%)"
+  },
+  {
+    "className":"blue-900",
+    "colorCode":"hsl(224, 64.3%, 32.9%)"
+  },
+  {
+    "className":"indigo-50",
+    "colorCode":"hsl(226, 100%, 96.7%)"
+  },
+  {
+    "className":"indigo-100",
+    "colorCode":"hsl(226, 100%, 93.9%)"
+  },
+  {
+    "className":"indigo-200",
+    "colorCode":"hsl(228, 96.5%, 88.8%)"
+  },
+  {
+    "className":"indigo-300",
+    "colorCode":"hsl(230, 93.5%, 81.8%)"
+  },
+  {
+    "className":"indigo-400",
+    "colorCode":"hsl(234, 89.5%, 73.9%)"
+  },
+  {
+    "className":"indigo-500",
+    "colorCode":"hsl(239, 83.5%, 66.7%)"
+  },
+  {
+    "className":"indigo-600",
+    "colorCode":"hsl(243, 75.4%, 58.6%)"
+  },
+  {
+    "className":"indigo-700",
+    "colorCode":"hsl(245, 57.9%, 50.6%)"
+  },
+  {
+    "className":"indigo-800",
+    "colorCode":"hsl(244, 54.5%, 41.4%)"
+  },
+  {
+    "className":"indigo-900",
+    "colorCode":"hsl(242, 47.4%, 34.3%)"
+  },
+  {
+    "className":"violet-50",
+    "colorCode":"hsl(250, 100%, 97.6%)"
+  },
+  {
+    "className":"violet-100",
+    "colorCode":"hsl(251, 91.3%, 95.5%)"
+  },
+  {
+    "className":"violet-200",
+    "colorCode":"hsl(251, 95.2%, 91.8%)"
+  },
+  {
+    "className":"violet-300",
+    "colorCode":"hsl(252, 94.7%, 85.1%)"
+  },
+  {
+    "className":"violet-400",
+    "colorCode":"hsl(255, 91.7%, 76.3%)"
+  },
+  {
+    "className":"violet-500",
+    "colorCode":"hsl(258, 89.5%, 66.3%)"
+  },
+  {
+    "className":"violet-600",
+    "colorCode":"hsl(262, 83.3%, 57.8%)"
+  },
+  {
+    "className":"violet-700",
+    "colorCode":"hsl(263, 70%, 50.4%)"
+  },
+  {
+    "className":"violet-800",
+    "colorCode":"hsl(263, 69.3%, 42.2%)"
+  },
+  {
+    "className":"violet-900",
+    "colorCode":"hsl(264, 67.4%, 34.9%)"
+  },
+  {
+    "className":"purple-50",
+    "colorCode":"hsl(270, 100%, 98%)"
+  },
+  {
+    "className":"purple-100",
+    "colorCode":"hsl(269, 100%, 95.5%)"
+  },
+  {
+    "className":"purple-200",
+    "colorCode":"hsl(269, 100%, 91.8%)"
+  },
+  {
+    "className":"purple-300",
+    "colorCode":"hsl(269, 97.4%, 85.1%)"
+  },
+  {
+    "className":"purple-400",
+    "colorCode":"hsl(270, 95.2%, 75.3%)"
+  },
+  {
+    "className":"purple-500",
+    "colorCode":"hsl(271, 91%, 65.1%)"
+  },
+  {
+    "className":"purple-600",
+    "colorCode":"hsl(271, 81.3%, 55.9%)"
+  },
+  {
+    "className":"purple-700",
+    "colorCode":"hsl(272, 71.7%, 47.1%)"
+  },
+  {
+    "className":"purple-800",
+    "colorCode":"hsl(273, 67.2%, 39.4%)"
+  },
+  {
+    "className":"purple-900",
+    "colorCode":"hsl(274, 65.6%, 32%)"
+  },
+  {
+    "className":"fuchsia-50",
+    "colorCode":"hsl(289, 100%, 97.8%)"
+  },
+  {
+    "className":"fuchsia-100",
+    "colorCode":"hsl(287, 100%, 95.5%)"
+  },
+  {
+    "className":"fuchsia-200",
+    "colorCode":"hsl(288, 95.8%, 90.6%)"
+  },
+  {
+    "className":"fuchsia-300",
+    "colorCode":"hsl(291, 93.1%, 82.9%)"
+  },
+  {
+    "className":"fuchsia-400",
+    "colorCode":"hsl(292, 91.4%, 72.5%)"
+  },
+  {
+    "className":"fuchsia-500",
+    "colorCode":"hsl(292, 84.1%, 60.6%)"
+  },
+  {
+    "className":"fuchsia-600",
+    "colorCode":"hsl(293, 69.5%, 48.8%)"
+  },
+  {
+    "className":"fuchsia-700",
+    "colorCode":"hsl(295, 72.4%, 39.8%)"
+  },
+  {
+    "className":"fuchsia-800",
+    "colorCode":"hsl(295, 70.2%, 32.9%)"
+  },
+  {
+    "className":"fuchsia-900",
+    "colorCode":"hsl(297, 63.6%, 28%)"
+  },
+  {
+    "className":"pink-50",
+    "colorCode":"hsl(327, 73.3%, 97.1%)"
+  },
+  {
+    "className":"pink-100",
+    "colorCode":"hsl(326, 77.8%, 94.7%)"
+  },
+  {
+    "className":"pink-200",
+    "colorCode":"hsl(326, 84.6%, 89.8%)"
+  },
+  {
+    "className":"pink-300",
+    "colorCode":"hsl(327, 87.1%, 81.8%)"
+  },
+  {
+    "className":"pink-400",
+    "colorCode":"hsl(329, 85.5%, 70.2%)"
+  },
+  {
+    "className":"pink-500",
+    "colorCode":"hsl(330, 81.2%, 60.4%)"
+  },
+  {
+    "className":"pink-600",
+    "colorCode":"hsl(333, 71.4%, 50.6%)"
+  },
+  {
+    "className":"pink-700",
+    "colorCode":"hsl(335, 77.6%, 42%)"
+  },
+  {
+    "className":"pink-800",
+    "colorCode":"hsl(336, 74.4%, 35.3%)"
+  },
+  {
+    "className":"pink-900",
+    "colorCode":"hsl(336, 69%, 30.4%)"
+  },
+  {
+    "className":"rose-50",
+    "colorCode":"hsl(356, 100%, 97.3%)"
+  },
+  {
+    "className":"rose-100",
+    "colorCode":"hsl(356, 100%, 94.7%)"
+  },
+  {
+    "className":"rose-200",
+    "colorCode":"hsl(353, 96.1%, 90%)"
+  },
+  {
+    "className":"rose-300",
+    "colorCode":"hsl(353, 95.7%, 81.8%)"
+  },
+  {
+    "className":"rose-400",
+    "colorCode":"hsl(351, 94.5%, 71.4%)"
+  },
+  {
+    "className":"rose-500",
+    "colorCode":"hsl(350, 89.2%, 60.2%)"
+  },
+  {
+    "className":"rose-600",
+    "colorCode":"hsl(347, 77.2%, 49.8%)"
+  },
+  {
+    "className":"rose-700",
+    "colorCode":"hsl(345, 82.7%, 40.8%)"
+  },
+  {
+    "className":"rose-800",
+    "colorCode":"hsl(343, 79.7%, 34.7%)"
+  },
+  {
+    "className":"rose-900",
+    "colorCode":"hsl(342, 75.5%, 30.4%)"
+  }
+]

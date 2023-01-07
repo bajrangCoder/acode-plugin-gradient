@@ -1,13 +1,20 @@
 {
   "name": "acode-plugin-gradient",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Gradient color generator for Acode plugin",
   "main": "dist/main.js",
   "repository": "https://github.com/bajrangCoders/acode-plugin-gradient.git",
   "author": "Raunak Raj",
   "license": "MIT",
   "dependencies": {
-    "html-tag-js": "^1.1.22"
+    "autoprefixer": "^10.4.13",
+    "html-tag-js": "^1.1.22",
+    "jszip": "^3.10.1",
+    "postcss": "^8.4.20",
+    "postcss-loader": "^7.0.2",
+    "raw-loader": "^4.0.2",
+    "sass": "^1.57.1",
+    "sass-loader": "^13.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.18.10",

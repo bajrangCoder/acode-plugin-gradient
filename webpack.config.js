@@ -15,6 +15,14 @@ module.exports = (env, options) => {
         },
       ],
     },
+    {
+      test: /\.(sa|sc|c)ss$/,
+      use: [
+        'raw-loader',
+        'postcss-loader',
+        'sass-loader',
+      ],
+    }
   ];
 
   const main = {

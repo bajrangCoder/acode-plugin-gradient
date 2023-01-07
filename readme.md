@@ -1,17 +1,38 @@
 # Gradient Generator 
-> latest version: v1.0.0
 
 Gradient Generator plugin for Acode for generating gradient color.
 
-## Use
-To use it, Search `Gradient Generator` in command palette.
+<details>
+    <summary>Change Log</summary>
+    <code><strong>v1.2.0</strong></code>
+    <ul>
+        <li>Added Gradient Generator for Tailwind Color</li>
+        <li>Internal Changes</li>
+        <li>Improvement</li>
+    </ul>
+</details>
 
-## Error or Bug
-If you found any error or bugs, please report it [here](https://github.com/bajrangCoder/acode-plugin-gradient/issues).
+# Usage
+Open command palette(available at editor bottom left corner with `icon -> •••`)
+And After it, it's using is like making Maggie(Very easy).
 
-## Features Request
+# Features
+- Css Gradient Generator 🎨
+- Tailwind Gradient Generator 🎨
+- User-friendly 🥰
+- Preview Mode 🤩
+
+## Bug 🐞
+If you found any problem or bugs, please report it [here](https://github.com/bajrangCoder/acode-plugin-gradient/issues).
+
+## Features Request 💥
 If you have any new features idea, please suggest it [here](https://github.com/bajrangCoder/acode-plugin-gradient/issues).
 
+
+---
+
 > If this plugin help you, please leave a star 🌟 [here](https://github.com/bajrangCoder/acode-plugin-gradient).
+
+**Contribution are always welcome 😍!**
 
 Thanks for using Gradient Generator ❣️❤️⭐✨
