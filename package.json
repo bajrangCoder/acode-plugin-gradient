@@ -1,6 +1,6 @@
 {
   "name": "acode-plugin-gradient",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Gradient color generator for Acode plugin",
   "main": "dist/main.js",
   "repository": "https://github.com/bajrangCoders/acode-plugin-gradient.git",

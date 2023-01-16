@@ -2,13 +2,14 @@
   "id": "acode.plugin.gradient",
   "name": "Gradient Generator",
   "main": "dist/main.js",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "readme": "readme.md",
   "icon": "icon.png",
   "files": ["tailwindColors.json"],
   "author": {
     "name": "Raunak Raj",
     "email": "bajrangcoders@gmail.com",
+    "url": "https://github.com/bajrangCoder/acode-plugin-gradient/",
     "github": "bajrangCoder"
   }
 }

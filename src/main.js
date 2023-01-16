@@ -3,6 +3,7 @@ import style from './style.scss';
 
 const multiPrompt = acode.require('multiPrompt');
 const select = acode.require('select');
+const colorPicker = acode.require('colorPicker');
 
 class GradientGenerator {
     $defaultGradient = "to top,hsl(198, 93.2%, 59.6%),hsl(217, 91.2%, 59.8%),hsl(224, 76.3%, 48%)";
@@ -58,8 +59,9 @@ class GradientGenerator {
         this.$page.append(...[this.selectMenuDiv,this.previewDiv,this.footerDiv]);
         this.$insertCssCode.onclick = this.insertCodeInEditor.bind(this,"cssCode");
         this.$insertTailwindCode.onclick = this.insertCodeInEditor.bind(this,"tailwindCode");
-        this.previewDiv.style.background = "linear-gradient(to right, hsl(198, 93.2%, 59.6%), hsl(217, 91.2%, 59.8%), hsl(224, 76.3%, 48%))";
+        this.previewDiv.style.background = this.$cssGradientCode;
         this.$page.onhide = () => {
+            this.previewDiv.style.background = this.$cssGradientCode;
             this.$page.innerHTML = "";
         }
     }
@@ -81,19 +83,10 @@ class GradientGenerator {
     }
     
     async vanillaCssGradient(){
-        const colorPrompt = await multiPrompt('Gradient Generator',[
-            {
-                id: "color1",
-                type: "color",
-                required: true
-            },
-            {
-                id: "color2",
-                type: "color",
-                required: true
-            },
-            ]);
-        if(!colorPrompt) return;
+        const color1 = await colorPicker("#23b4d9");
+        const color2 = await colorPicker("#1666d4");
+        if(!color1) return;
+        if(!color2) return;
         const toDirection = await select('Linear Direction', [
             'to right',
             'to right bottom',
@@ -107,7 +100,7 @@ class GradientGenerator {
             default: 'to right',
         });
         if(!toDirection) return;
-        editorManager.editor.insert(`linear-gradient(${toDirection}, ${colorPrompt["color1"]}, ${colorPrompt["color2"]})`);
+        editorManager.editor.insert(`linear-gradient(${toDirection}, ${color1}, ${color2})`);
     }
     
     async tailwindcssGradient(){
